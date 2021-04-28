@@ -1,4 +1,1 @@
-echo "this is tast data"
-date
-cal
-echo "bye"
+my name is kapil dev
